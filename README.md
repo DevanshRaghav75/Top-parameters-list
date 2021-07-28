@@ -16,6 +16,17 @@ This repo contains parameters of the following vulnerabilities:
 - Remote Code Execution (RCE) 
 - Open Redirect
 ```
+
+# ToC
+
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+* <a href=""></a>
+
 ## idor parameters 
 
 ```
