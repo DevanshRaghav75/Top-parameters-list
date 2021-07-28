@@ -1,6 +1,21 @@
-# Top-parameters-list
-Top parameters list for different vulnerabilities
+# Top-parameters-list⚔️
+Top parameters list for different vulnerabilities.
 
+# What is Top-parameter-list🧙🧛
+This repo contains top parameters for vulnerbilities like - XSS, SQLi, SSRF, SSTI, Redirection, RCE, IDOR, LFI, This will help you in your recon and identifying the vulnerabilities.  
+
+This repo contains parameters of the following vulnerabilities:
+
+```
+- Insecure direct object references (IDOR)
+- Cross-Site Scripting (XSS)
+- Server-Side Request Forgery (SSRF)
+- Local File Inclusion (LFI)
+- Server-side template injections (SSTI)
+- SQL Injection (SQLi)
+- Remote Code Execution (RCE) 
+- Open Redirect
+```
 ## idor parameters 
 
 ```
