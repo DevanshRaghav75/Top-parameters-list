@@ -19,13 +19,14 @@ This repo contains parameters of the following vulnerabilities:
 
 # ToC
 
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
-* <a href=""></a>
+* <a href="https://github.com/DevanshRaghav75/Top-parameters-list/blob/main/README.md#idor-parameters">idor parameters</a>
+* <a href="https://github.com/DevanshRaghav75/Top-parameters-list/blob/main/README.md#SQLi-parameters">SQLi parameters</a>
+* <a href="https://github.com/DevanshRaghav75/Top-parameters-list/blob/main/README.md#LFI-parameters">LFI parameters</a>
+* <a href="https://github.com/DevanshRaghav75/Top-parameters-list/blob/main/README.md#XSS-parameters">XSS parameters</a>
+* <a href="https://github.com/DevanshRaghav75/Top-parameters-list/blob/main/README.md#RCE-parameters">RCE parameters</a>
+* <a href="https://github.com/DevanshRaghav75/Top-parameters-list/blob/main/README.md#SSRF-parameters">SSRF parameters</a>
+* <a href="https://github.com/DevanshRaghav75/Top-parameters-list/blob/main/README.md#SSTI-parameters">SSTI parameters</a>
+* <a href="https://github.com/DevanshRaghav75/Top-parameters-list/blob/main/README.md#Redirection-parameters">Redirection parameters</a>
 
 ## idor parameters 
 
